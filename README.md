@@ -99,7 +99,7 @@
   </picture>
 </details>
 
-<p align="center"><sub>贡献图每日自动更新 · 欢迎到项目的 Issues 交流想法</sub></p>
+<p align="center"><sub>记录每一次构建与迭代 · 欢迎到项目的 Issues 交流想法</sub></p>
 
 <p align="center"><img src="./assets/footer.svg" width="100%" alt="Thanks for visiting · Keep building" /></p>
 
