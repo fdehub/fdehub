@@ -1,0 +1,4 @@
+# Intermediate 3D generator output; curated artwork lives in assets/generated/.
+/profile-3d-contrib/
+.DS_Store
+Thumbs.db
